@@ -7,3 +7,4 @@ let PlateSchema = new Schema({
 });
 
 export default PlateSchema;
+// module.exports = mongoose('Plate', PlateSchema);

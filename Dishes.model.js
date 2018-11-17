@@ -6,4 +6,5 @@ let DishesSchema = new Schema({
     value: parseInt('integer')
 });
 
+// module.exports = mongoose('Dishes', DishesSchema);
 export default DishesSchema;
